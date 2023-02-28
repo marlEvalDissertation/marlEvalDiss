@@ -4,7 +4,7 @@ This repository contains the code used to generate all plots in my dissertation 
 
 **Towards a Standardised Performance Evaluation Protocol for Cooperative MARL**
 
-R. Gorsane, O. Mahjoub, R. J. de Kock, R. Dubb, S. Singh, and A. Pretorius, “Towards a Standardised Per- formance Evaluation Protocol for Cooperative MARL,” in Thirty-Sixth Conference on Neural Information Processing Systems, 2022. [Online]. Available: https://openreview.net/forum?id=am86qcwErJm
+R. Gorsane, O. Mahjoub, R. J. de Kock, R. Dubb, S. Singh, and A. Pretorius, “Towards a Standardised Performance Evaluation Protocol for Cooperative MARL,” in Thirty-Sixth Conference on Neural Information Processing Systems, 2022. [Online]. Available: https://openreview.net/forum?id=am86qcwErJm
 
 ## Contents of the Repo:
 
