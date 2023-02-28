@@ -8,4 +8,4 @@ R. Gorsane, O. Mahjoub, R. J. de Kock, R. Dubb, S. Singh, and A. Pretorius, “T
 
 ## Contents of the Repo:
 
-1. A Google Colab .ipynb notebook for analysis of a [dataset](https://drive.google.com/file/d/1XZXIEQU1zgq8nhROVukWnriCBRdUMtdO/view?usp=sharing) on deep cooperative MARL literature. Plots contained in section 2.3 of this dissertation are generated using this notebook.
+1. A Google Colab Jupyter [notebook](marlEvalDiss/EDA_MARL_Evaluation_Literature.ipynb) for analysis of a [dataset](https://drive.google.com/file/d/1XZXIEQU1zgq8nhROVukWnriCBRdUMtdO/view?usp=sharing) on deep cooperative MARL literature. Plots contained in section 2.3 of this dissertation are generated using this notebook.
