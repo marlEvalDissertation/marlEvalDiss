@@ -10,4 +10,4 @@ R. Gorsane, O. Mahjoub, R. J. de Kock, R. Dubb, S. Singh, and A. Pretorius, “T
 
 1. A Google Colab Jupyter [notebook](EDA_MARL_Evaluation_Literature.ipynb) for analysis of a [dataset](https://drive.google.com/file/d/1XZXIEQU1zgq8nhROVukWnriCBRdUMtdO/view?usp=sharing) on deep cooperative MARL literature. Plots contained in section 2.3 of this dissertation are generated using this notebook.
 
-2. A Google Colab [notebook]() for drawing the two plots of example preferential value functions found in subsetion 2.4 on multi-criteria decision analysis.
+2. A Google Colab [notebook](https://github.com/marlEvalDissertation/marlEvalDiss/blob/main/MCDA_textbook_plots.ipynb) for drawing the two plots of example preferential value functions found in subsetion 2.4 on multi-criteria decision analysis.
