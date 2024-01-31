@@ -1,6 +1,6 @@
-# Addressing Deep Cooperative Multi-Agent Reinforcement Learning Empirical Algorithm Performance Evaluation
+# Addressing Deep Reinforcement Learning Empirical Algorithm Performance Evaluations
 
-This repository contains the code used to generate all plots in my dissertation on multi-agent RL evaluation methodologies. The dissertation is accompanied by a [publication](https://sites.google.com/view/marl-standard-protocol/) with Instadeep Ltd. titled:
+This repository contains the code used to generate all plots in my dissertation on deep RL evaluation methodologies. The dissertation is accompanied by a [publication](https://sites.google.com/view/marl-standard-protocol/) with Instadeep Ltd. titled:
 
 **Towards a Standardised Performance Evaluation Protocol for Cooperative MARL**
 
