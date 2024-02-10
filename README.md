@@ -13,3 +13,7 @@ R. Gorsane, O. Mahjoub, R. J. de Kock, R. Dubb, S. Singh, and A. Pretorius, “T
 2. A Google Colab [notebook](MCDA_textbook_plots.ipynb) for drawing the two plots of example preferential value functions found in subsetion 2.4 on multi-criteria decision analysis.
 
 3. A Google Colab [notebook](Guideline_Data_Collection.ipynb) for the data collection phase recommended by our guideline for improved RL evaluation. This phase is elaborated on in section 4.1.1 of the dissertation.
+
+4. RL algorithm performance data contained in this [folder](https://github.com/marlEvalDissertation/marlEvalDiss/tree/main/RL_data). The data is collected using this [notebook](Guideline_Data_Collection.ipynb) from 3.
+
+5. A Google Colab [notebook](Sample_Efficiency_Plots.ipynb) for plotting the sample efficiency curves of the RL algorithms. These can be found in section 4.2 of the dissertation.
