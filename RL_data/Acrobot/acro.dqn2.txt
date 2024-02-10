@@ -1,0 +1,43 @@
+========== Acrobot-v1 ==========
+Seed: 3749504545
+Loading hyperparameters from: /content/rl-baselines3-zoo/hyperparams/dqn.yml
+Default hyperparameters for environment (ones being tuned will be overridden):
+OrderedDict([('batch_size', 128),
+             ('buffer_size', 50000),
+             ('exploration_final_eps', 0.1),
+             ('exploration_fraction', 0.12),
+             ('gamma', 0.99),
+             ('gradient_steps', -1),
+             ('learning_rate', 0.00063),
+             ('learning_starts', 0),
+             ('n_timesteps', 100000.0),
+             ('policy', 'MlpPolicy'),
+             ('policy_kwargs', 'dict(net_arch=[256, 256])'),
+             ('target_update_interval', 250),
+             ('train_freq', 4)])
+Log path: logs/dqn/Acrobot-v1_2
+Eval num_timesteps=10000, episode_reward=-500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-83.90 +/- 11.92
+Episode length: 84.90 +/- 11.92
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=-97.30 +/- 65.75
+Episode length: 98.30 +/- 65.75
+Eval num_timesteps=40000, episode_reward=-78.40 +/- 7.89
+Episode length: 79.40 +/- 7.89
+New best mean reward!
+Eval num_timesteps=50000, episode_reward=-76.40 +/- 9.50
+Episode length: 77.40 +/- 9.50
+New best mean reward!
+Eval num_timesteps=60000, episode_reward=-83.90 +/- 9.06
+Episode length: 84.90 +/- 9.06
+Eval num_timesteps=70000, episode_reward=-88.00 +/- 12.92
+Episode length: 89.00 +/- 12.92
+Eval num_timesteps=80000, episode_reward=-79.20 +/- 9.79
+Episode length: 80.20 +/- 9.79
+Eval num_timesteps=90000, episode_reward=-77.10 +/- 12.66
+Episode length: 78.10 +/- 12.66
+Eval num_timesteps=100000, episode_reward=-80.90 +/- 11.67
+Episode length: 81.90 +/- 11.67
+Saving to logs/dqn/Acrobot-v1_2

@@ -1,0 +1,43 @@
+========== CartPole-v1 ==========
+Seed: 2421168927
+Loading hyperparameters from: /content/rl-baselines3-zoo/hyperparams/dqn.yml
+Default hyperparameters for environment (ones being tuned will be overridden):
+OrderedDict([('batch_size', 64),
+             ('buffer_size', 100000),
+             ('exploration_final_eps', 0.04),
+             ('exploration_fraction', 0.16),
+             ('gamma', 0.99),
+             ('gradient_steps', 128),
+             ('learning_rate', 0.0023),
+             ('learning_starts', 1000),
+             ('n_timesteps', 50000.0),
+             ('policy', 'MlpPolicy'),
+             ('policy_kwargs', 'dict(net_arch=[256, 256])'),
+             ('target_update_interval', 10),
+             ('train_freq', 256)])
+Log path: logs/dqn/CartPole-v1_1
+Eval num_timesteps=10000, episode_reward=81.40 +/- 24.30
+Episode length: 81.40 +/- 24.30
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=89.70 +/- 2.15
+Episode length: 89.70 +/- 2.15
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=130.00 +/- 8.45
+Episode length: 130.00 +/- 8.45
+New best mean reward!
+Eval num_timesteps=40000, episode_reward=59.20 +/- 26.44
+Episode length: 59.20 +/- 26.44
+Eval num_timesteps=50000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=60000, episode_reward=214.70 +/- 9.75
+Episode length: 214.70 +/- 9.75
+Eval num_timesteps=70000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=80000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=90000, episode_reward=85.60 +/- 19.66
+Episode length: 85.60 +/- 19.66
+Eval num_timesteps=100000, episode_reward=109.20 +/- 3.25
+Episode length: 109.20 +/- 3.25
+Saving to logs/dqn/CartPole-v1_1

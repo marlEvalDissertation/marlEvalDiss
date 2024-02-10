@@ -1,0 +1,39 @@
+========== CartPole-v1 ==========
+Seed: 3818381451
+Loading hyperparameters from: /content/rl-baselines3-zoo/hyperparams/ppo.yml
+Default hyperparameters for environment (ones being tuned will be overridden):
+OrderedDict([('batch_size', 256),
+             ('clip_range', 'lin_0.2'),
+             ('ent_coef', 0.0),
+             ('gae_lambda', 0.8),
+             ('gamma', 0.98),
+             ('learning_rate', 'lin_0.001'),
+             ('n_envs', 8),
+             ('n_epochs', 20),
+             ('n_steps', 32),
+             ('n_timesteps', 100000.0),
+             ('policy', 'MlpPolicy')])
+Log path: logs/ppo/CartPole-v1_5
+Eval num_timesteps=10000, episode_reward=104.50 +/- 15.67
+Episode length: 104.50 +/- 15.67
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=40000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=50000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=60000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=70000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=80000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=90000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=100000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Saving to logs/ppo/CartPole-v1_5

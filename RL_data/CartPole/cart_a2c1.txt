@@ -1,0 +1,33 @@
+========== CartPole-v1 ==========
+Seed: 2993152922
+Loading hyperparameters from: /content/rl-baselines3-zoo/hyperparams/a2c.yml
+Default hyperparameters for environment (ones being tuned will be overridden):
+OrderedDict([('ent_coef', 0.0),
+             ('n_envs', 8),
+             ('n_timesteps', 500000.0),
+             ('policy', 'MlpPolicy')])
+Log path: logs/a2c/CartPole-v1_1
+Eval num_timesteps=10000, episode_reward=295.00 +/- 117.18
+Episode length: 295.00 +/- 117.18
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=465.20 +/- 70.49
+Episode length: 465.20 +/- 70.49
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=178.00 +/- 26.23
+Episode length: 178.00 +/- 26.23
+Eval num_timesteps=40000, episode_reward=441.80 +/- 77.87
+Episode length: 441.80 +/- 77.87
+Eval num_timesteps=50000, episode_reward=395.40 +/- 80.76
+Episode length: 395.40 +/- 80.76
+Eval num_timesteps=60000, episode_reward=440.90 +/- 81.93
+Episode length: 440.90 +/- 81.93
+Eval num_timesteps=70000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=80000, episode_reward=500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=90000, episode_reward=139.00 +/- 23.53
+Episode length: 139.00 +/- 23.53
+Eval num_timesteps=100000, episode_reward=254.70 +/- 70.04
+Episode length: 254.70 +/- 70.04
+Saving to logs/a2c/CartPole-v1_1

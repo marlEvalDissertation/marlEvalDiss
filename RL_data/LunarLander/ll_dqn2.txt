@@ -1,0 +1,43 @@
+========== LunarLander-v2 ==========
+Seed: 2288131060
+Loading hyperparameters from: /content/rl-baselines3-zoo/hyperparams/dqn.yml
+Default hyperparameters for environment (ones being tuned will be overridden):
+OrderedDict([('batch_size', 128),
+             ('buffer_size', 50000),
+             ('exploration_final_eps', 0.1),
+             ('exploration_fraction', 0.12),
+             ('gamma', 0.99),
+             ('gradient_steps', -1),
+             ('learning_rate', 0.00063),
+             ('learning_starts', 0),
+             ('n_timesteps', 100000.0),
+             ('policy', 'MlpPolicy'),
+             ('policy_kwargs', 'dict(net_arch=[256, 256])'),
+             ('target_update_interval', 250),
+             ('train_freq', 4)])
+Log path: logs/dqn/LunarLander-v2_2
+Eval num_timesteps=10000, episode_reward=-119.25 +/- 109.25
+Episode length: 731.50 +/- 324.06
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=28.18 +/- 113.09
+Episode length: 841.50 +/- 295.40
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=202.47 +/- 79.93
+Episode length: 395.90 +/- 229.08
+New best mean reward!
+Eval num_timesteps=40000, episode_reward=104.62 +/- 118.88
+Episode length: 756.70 +/- 323.75
+Eval num_timesteps=50000, episode_reward=96.90 +/- 99.80
+Episode length: 426.30 +/- 385.31
+Eval num_timesteps=60000, episode_reward=97.03 +/- 184.84
+Episode length: 340.90 +/- 226.77
+Eval num_timesteps=70000, episode_reward=44.38 +/- 134.20
+Episode length: 638.30 +/- 372.48
+Eval num_timesteps=80000, episode_reward=74.16 +/- 145.13
+Episode length: 349.40 +/- 328.99
+Eval num_timesteps=90000, episode_reward=247.14 +/- 33.85
+Episode length: 360.60 +/- 221.54
+New best mean reward!
+Eval num_timesteps=100000, episode_reward=220.56 +/- 95.49
+Episode length: 381.80 +/- 245.76
+Saving to logs/dqn/LunarLander-v2_2

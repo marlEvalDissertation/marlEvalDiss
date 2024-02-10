@@ -1,0 +1,40 @@
+========== LunarLander-v2 ==========
+Seed: 1276615635
+Loading hyperparameters from: /content/rl-baselines3-zoo/hyperparams/a2c.yml
+Default hyperparameters for environment (ones being tuned will be overridden):
+OrderedDict([('ent_coef', 1e-05),
+             ('gamma', 0.995),
+             ('learning_rate', 'lin_0.00083'),
+             ('n_envs', 8),
+             ('n_steps', 5),
+             ('n_timesteps', 200000.0),
+             ('policy', 'MlpPolicy')])
+Log path: logs/a2c/LunarLander-v2_2
+Eval num_timesteps=10000, episode_reward=-1392.18 +/- 432.34
+Episode length: 403.50 +/- 76.47
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-867.38 +/- 307.06
+Episode length: 644.00 +/- 159.24
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=-522.26 +/- 396.76
+Episode length: 759.30 +/- 142.59
+New best mean reward!
+Eval num_timesteps=40000, episode_reward=-515.15 +/- 447.45
+Episode length: 802.20 +/- 301.35
+New best mean reward!
+Eval num_timesteps=50000, episode_reward=-311.57 +/- 265.58
+Episode length: 890.70 +/- 221.62
+New best mean reward!
+Eval num_timesteps=60000, episode_reward=-368.39 +/- 242.85
+Episode length: 876.20 +/- 248.09
+Eval num_timesteps=70000, episode_reward=-429.28 +/- 315.03
+Episode length: 787.80 +/- 248.24
+Eval num_timesteps=80000, episode_reward=-108.80 +/- 240.25
+Episode length: 727.80 +/- 273.18
+New best mean reward!
+Eval num_timesteps=90000, episode_reward=34.31 +/- 157.01
+Episode length: 554.20 +/- 256.40
+New best mean reward!
+Eval num_timesteps=100000, episode_reward=-233.84 +/- 234.32
+Episode length: 840.60 +/- 215.28
+Saving to logs/a2c/LunarLander-v2_2

@@ -1,0 +1,40 @@
+========== Acrobot-v1 ==========
+Seed: 2202923581
+Loading hyperparameters from: /content/rl-baselines3-zoo/hyperparams/ppo.yml
+Default hyperparameters for environment (ones being tuned will be overridden):
+OrderedDict([('ent_coef', 0.0),
+             ('gae_lambda', 0.94),
+             ('gamma', 0.99),
+             ('n_envs', 16),
+             ('n_epochs', 4),
+             ('n_steps', 256),
+             ('n_timesteps', 1000000.0),
+             ('normalize', True),
+             ('policy', 'MlpPolicy')])
+Log path: logs/ppo/Acrobot-v1_2
+Eval num_timesteps=10000, episode_reward=-500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-500.00 +/- 0.00
+Episode length: 500.00 +/- 0.00
+Eval num_timesteps=30000, episode_reward=-150.40 +/- 122.92
+Episode length: 151.30 +/- 122.64
+New best mean reward!
+Eval num_timesteps=40000, episode_reward=-88.10 +/- 23.18
+Episode length: 89.10 +/- 23.18
+New best mean reward!
+Eval num_timesteps=50000, episode_reward=-85.20 +/- 18.31
+Episode length: 86.20 +/- 18.31
+New best mean reward!
+Eval num_timesteps=60000, episode_reward=-78.90 +/- 5.70
+Episode length: 79.90 +/- 5.70
+New best mean reward!
+Eval num_timesteps=70000, episode_reward=-79.80 +/- 9.26
+Episode length: 80.80 +/- 9.26
+Eval num_timesteps=80000, episode_reward=-88.40 +/- 21.14
+Episode length: 89.40 +/- 21.14
+Eval num_timesteps=90000, episode_reward=-85.00 +/- 10.74
+Episode length: 86.00 +/- 10.74
+Eval num_timesteps=100000, episode_reward=-100.20 +/- 42.80
+Episode length: 101.20 +/- 42.80
+Saving to logs/ppo/Acrobot-v1_2
