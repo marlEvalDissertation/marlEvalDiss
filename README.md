@@ -17,3 +17,5 @@ R. Gorsane, O. Mahjoub, R. J. de Kock, R. Dubb, S. Singh, and A. Pretorius, “T
 4. RL algorithm performance data contained in this [folder](https://github.com/marlEvalDissertation/marlEvalDiss/tree/main/RL_data). The data is collected using this [notebook](Guideline_Data_Collection.ipynb) from 3. This folder also contains CSVs which are compiled and formatted by [notebook 5](Sample_Efficiency_Plots.ipynb) from the raw algorithm run output data.
 
 5. A Google Colab [notebook](Sample_Efficiency_Plots.ipynb) for plotting the sample efficiency curves of the RL algorithms. These can be found in section 4.2 of the dissertation. This notebook also does the dataprocessing to convert the output from [notebook 3](Guideline_Data_Collection.ipynb) to CSV files.
+
+6. A Google Colab [notebook](Guideline_Data_Aggregation.ipynb) for constructing and plotting partial value functions for each of the RL tasks in this dissertation. This notebook then conducts data aggregation of the RL runs using the partial value functions and chosen weights in order to compare RL algorithms. This is documented in section 4.1.4 and 4.1.5 of the dissertation.
