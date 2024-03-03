@@ -20,4 +20,4 @@ R. Gorsane, O. Mahjoub, R. J. de Kock, R. Dubb, S. Singh, and A. Pretorius, “T
 
 6. A Google Colab [notebook](Guideline_Data_Aggregation.ipynb) for constructing and plotting partial value functions for each of the RL tasks in this dissertation. This notebook then conducts data aggregation of the RL runs using the partial value functions and chosen weights in order to compare RL algorithms. This is documented in section 4.1.4 and 4.1.5 of the dissertation. Results appear in section 4.2.
 
-7. A Google Colab [notebook](Results_Analysis.ipynb) for analysing the algorithm performance results in terms of their robustness and sensitivity to changes.
+7. A Google Colab [notebook](Results_Analysis.ipynb) for analysing the algorithm performance results in terms of their robustness and sensitivity to changes. Results of this are seen in section 4.2. of the dissertation.
